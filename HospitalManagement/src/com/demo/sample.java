@@ -14,6 +14,7 @@ public class sample implements WashingMachineOperation
 {
 	private static Scanner sc;
 	int seconds=72;
+	int secondss=74;
 	int i=0;
 	
 	private void showMachines() {
